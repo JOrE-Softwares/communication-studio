@@ -11,3 +11,6 @@
 
 ## Usage
 Ideal for developers, engineers, and system integrators working with serial devices such as microcontrollers, industrial equipment, and peripheral hardware.
+
+## Notice
+This program is under development, and it's recommended to do not use this program in early days **(Release: 1st June 2025)**. Some bugs have been found and are in fixing.
