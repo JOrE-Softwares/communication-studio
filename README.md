@@ -12,5 +12,16 @@
 ## Usage
 Ideal for developers, engineers, and system integrators working with serial devices such as microcontrollers, industrial equipment, and peripheral hardware.
 
-## Notice
-This program is under development, and it's recommended to do not use this program in early days **(Release: 1st June 2025)**. Some bugs have been found and are in fixing.
+## Version History
+### Version 1
+* Initial Release.
+### Version 2
+* **Important Change: Fixed data frames get pieced. Also minimum end-of-frame wait time now supported (Default: 200ms)**
+### Version 3
+* **Now your settings will saved and loaded in next time open this program - No longer re-configure need!**
+* Now this program uses system tray.
+* Showing time now on program.
+* Multiple input support
+* Macro text format support
+* Live clock on program!
+* Better interface
